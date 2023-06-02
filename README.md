@@ -14,3 +14,5 @@ List of Practical :-
 5. Write a program to solve Tic-Tac-Toe by using Min-Max algorithm and alpha-beta prunning.
 
 6. Write a program to implement K nearest neighbor algorithm. Randomly generate a data of 20 points having x and y values. Also assign positive values when x or y component is below 26 and negative values to all other input data. Perform classification by using value of K=1,2,3,4,5.
+
+7.Write a program to implement Naive Bayes for Data with Nominal Attributes 
