@@ -15,4 +15,6 @@ List of Practical :-
 
 6. Write a program to implement K nearest neighbor algorithm. Randomly generate a data of 20 points having x and y values. Also assign positive values when x or y component is below 26 and negative values to all other input data. Perform classification by using value of K=1,2,3,4,5.
 
-7.Write a program to implement Naive Bayes for Data with Nominal Attributes 
+7. Write a program to implement Naive Bayes for Data with Nominal Attributes 
+
+8. Write a program to implement perceptron learning algorithm for two input AND, OR, NAND and NOR gate classification. Initialize weights randomly in 1 to 10. Use similar initial weights for learning all the GATE classifications. Display number of iterations required in each case.
