@@ -18,3 +18,5 @@ List of Practical :-
 7. Write a program to implement Naive Bayes for Data with Nominal Attributes 
 
 8. Write a program to implement perceptron learning algorithm for two input AND, OR, NAND and NOR gate classification. Initialize weights randomly in 1 to 10. Use similar initial weights for learning all the GATE classifications. Display number of iterations required in each case.
+
+(Practical List may get changed depending upon Syllabus of CSE RCOEM)
